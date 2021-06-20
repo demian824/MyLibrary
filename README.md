@@ -1,2 +1,2 @@
-# MyVector
-Made simple vector library
+# MyLibrary
+Made simple libraries
